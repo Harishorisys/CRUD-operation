@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(145, 213, 139);
+}
+h2,label,.updatebtn{
+    font-size: 24px;
+    color: #414141;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+input{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.container-2{
+    background-color: white;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 30%;
+    padding: 10px;
+}
+
+.update{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}

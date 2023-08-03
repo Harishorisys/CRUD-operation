@@ -1,0 +1,94 @@
+/* Display.php page */
+body{
+    background-color: rgb(139, 191, 213);
+}
+table{
+    border-collapse: collapse;
+    background-color: #fff0eb;
+    border-radius: 15px;
+}
+.container,.addbtn{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+th{
+    font-size: 24px;
+    color: rgb(97, 2, 2);
+}
+th,td{
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+
+a{
+    
+    font-size: 18px;
+    font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+    color: black;
+}
+
+.btnadd{
+    background-color: #ff4500;
+    border-radius: 8px;
+
+}
+
+.btnadd:hover{
+    background-color: #fff;
+    transition: 0.5s;
+}
+
+/* index.php page */
+
+h2,label,.submit{
+    font-size: 24px;
+    color: #414141;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+input{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace
+    
+}
+
+.container-1{
+    background-color: white;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 30%;
+    padding: 10px;
+}
+
+.index-contain{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
